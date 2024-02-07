@@ -12,3 +12,9 @@
 - [x]  Aula 02 - Fundamentos de Algoritmos - 02/02/2024
     - Definição e exemplos de algoritmos, descrição narrativa, fluxograma e pseudocódigo.
     - Exercícios de fixação.
+- [x]  Aula 03 -Github / Portugol Studio - 07/02/2024
+    - Criação do perfil no Github
+    - Commit, push, pull e git clone
+    - Github Desktop
+    - Instalação do Portugol Studio.
+    - Exercícios de Fixação.
