@@ -18,3 +18,7 @@
     - Github Desktop
     - Instalação do Portugol Studio.
     - Exercícios de Fixação.
+- [x]  Aula 04 - Portugol Studio - 09/02/2024
+    - Operações Aritméticas.
+    - Exercícios Avaliativos
+    
